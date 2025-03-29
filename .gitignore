@@ -1,0 +1,24 @@
+# Виртуальные окружения
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Папка конфигурации PyCharm
+.idea/
+
+# Кэши Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
